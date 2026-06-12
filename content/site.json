@@ -1,30 +1,101 @@
 {
   "brand": {
-    "name": "Your Business",
-    "tagline": "A simple, honest landing page",
-    "description": "Replace this with your business description."
+    "name": "Physio Goals",
+    "tagline": "Your goals, our expertise.",
+    "description": "Evidence-based physiotherapy focused on your recovery. Whether you're bouncing back from injury, managing chronic pain, or pushing your athletic performance, we put your goals at the centre of every session."
   },
   "palette": {
-    "primary": "#111827",
-    "accent": "#6b7280",
-    "background": "#f9fafb",
-    "foreground": "#0f172a"
+    "primary": "#0e7490",
+    "accent": "#f97316",
+    "background": "#f8fafc",
+    "foreground": "#1e293b"
   },
   "hero": {
-    "headline": "Tell people what you do, plainly.",
-    "subhead": "Then tell them how to get in touch.",
-    "ctaLabel": "Get in touch",
+    "headline": "Move better. Live better.",
+    "subhead": "Goal-oriented physiotherapy that gets you back to doing what you love.",
+    "ctaLabel": "Book a consultation",
     "ctaHref": "#contact"
   },
   "sections": [
     {
       "kind": "features",
-      "title": "What we do",
+      "title": "How we work",
       "items": [
-        { "title": "Thing one", "body": "Brief description." },
-        { "title": "Thing two", "body": "Brief description." },
-        { "title": "Thing three", "body": "Brief description." }
+        {
+          "title": "Your goals drive your care",
+          "body": "We don't believe in one-size-fits-all treatment. Every plan is built around what matters to you — whether that's running again, returning to work, or simply moving without pain."
+        },
+        {
+          "title": "Hands-on treatment, real results",
+          "body": "Our evidence-based approach combines hands-on therapy with targeted exercise prescription. You'll understand exactly what we're doing and why."
+        },
+        {
+          "title": "Progress you can feel",
+          "body": "We track your movement, strength, and function every step of the way. You'll see tangible improvements, not just promises."
+        },
+        {
+          "title": "Your recovery, your way",
+          "body": "From in-clinic sessions to telehealth consultations, we work around your schedule and preferences. You're in control of how we work together."
+        }
       ]
+    },
+    {
+      "kind": "services",
+      "title": "What we treat",
+      "items": [
+        {
+          "title": "Injury rehabilitation",
+          "body": "From acute injuries to niggling strains, we'll get you moving again safely and stronger than before."
+        },
+        {
+          "title": "Sports physiotherapy",
+          "body": "Whether you're elite or keen, we help athletes prevent injury and perform at their best."
+        },
+        {
+          "title": "Chronic pain management",
+          "body": "Long-term pain needs a different approach. We'll help you build resilience and reclaim your life."
+        },
+        {
+          "title": "Post-surgical rehabilitation",
+          "body": "Following surgery? We'll guide you through each stage of recovery with expert, hands-on care."
+        },
+        {
+          "title": "Exercise prescription",
+          "body": "The right exercises, done the right way. We'll teach you a program you can own."
+        },
+        {
+          "title": "Movement assessment",
+          "body": "We'll identify what's holding you back and create a clear plan to get you moving better."
+        }
+      ]
+    },
+    {
+      "kind": "about",
+      "title": "Why work with us",
+      "body": "Physio Goals isn't about ticking boxes. We're here to help you reach your goals — whether that's getting back on the football field, returning to the garden, or simply waking up without pain. We combine clinical expertise with genuine care, giving you the hands-on treatment and education you need to take control of your recovery. Progress you can actually feel. That's the difference."
+    },
+    {
+      "kind": "testimonials",
+      "title": "What our patients say",
+      "items": [
+        {
+          "title": "Back to running",
+          "body": "After my knee injury, I wasn't sure I'd ever run again. The team at Physio Goals got me moving in a way that felt safe and purposeful. Six months later, I'm back to my 5K routine."
+        },
+        {
+          "title": "Finally understood my pain",
+          "body": "I've seen physios before, but this team actually explained what was going on and why the exercises mattered. I felt like a partner in my own recovery."
+        },
+        {
+          "title": "Telehealth made it work",
+          "body": "Living rurally, consistency was always tough. Being able to do sessions online kept me on track without the drive. Best decision for my rehab."
+        }
+      ]
+    },
+    {
+      "kind": "contact",
+      "title": "Get in touch",
+      "body": "Ready to reach your goals? Get in contact with us to book your first session and start your recovery journey."
     }
   ],
   "contact": {
@@ -34,6 +105,6 @@
     "hours": null
   },
   "footer": {
-    "blurb": "Built with Scout."
+    "blurb": "Physio Goals — evidence-based physiotherapy built around your recovery. Your goals, our expertise."
   }
 }
